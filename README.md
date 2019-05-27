@@ -1,9 +1,9 @@
-# balloons
+# Balloons
 
 ### The Balloons Game ###
 
-A very simple balloon blast game.
+A very simple balloon blast game using Phaser 3.
 
-Big thanks for guys behind Phaser [https://phaser.io/].
+Big thanks to guys behind Phaser [https://phaser.io/].
 
 Images by Creative Commons.
