@@ -1,5 +1,3 @@
-# Balloons
-
 ### The Balloons Game ###
 
 A very simple balloon blast game using Phaser 3.
